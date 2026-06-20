@@ -4,7 +4,7 @@ Collection of Excel projects showcasing data analysis and business operations sk
 ## Projects Included 
 
 ## Business Operations Project
--A worbook covering:
+A worbook covering:
 -Inventory Management 
 -Sales Analysis 
 -Sales Report 
@@ -13,6 +13,5 @@ Collection of Excel projects showcasing data analysis and business operations sk
 -Payroll Details 
 
 ## Skills demonstrated 
-
 -Formulas and Functions 
 -Business Reporting 
